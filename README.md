@@ -4,7 +4,7 @@ Revenue analysis of UK online retail using SQL and Excel
 **Tools & Techniques**
 - SQL (PostgreSQL): CTEs, window functions, time-series analysis, revenue normalization, concentration metrics
 - Excel: Pivot tables, calculated fields, dashboards, visualisation
-- 
+  
 **Executive Summary**
 This project assesses revenue, customer purchasing behaviour, and concentration risk using transactional data from a UK-based non-store online retailer. The analysis, conducted using SQL and Excel, shows that while net revenue is strong, performance is highly seasonal and heavily dependent on a small group of high frequency bulk buyers.
 
