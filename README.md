@@ -34,7 +34,7 @@ To ensure consistency and comparability across KPIs:
 
 **Key KPIs**
 * Total Revenue (£): 9.8 M
-* Month-over-Month Revenue Change (%): largest montly decline in revenue of approx. 79% from Nov to Dec 2011
+* Month-over-Month Revenue Change (%): largest decline from November to December 2011, with revenue falling by approx. 79%
 * Total Customers: 4339
 * Average Order Value (£): 484.45
 * Orders per Customer: 4.27
